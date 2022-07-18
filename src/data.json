@@ -1,0 +1,31 @@
+[
+    {
+        "Usage": "600 Kwh",
+        "Running_Cost": "$168.5",
+        "Model_No": "FTKM20Q",
+        "Size": "01",
+        "Star_Rating": "0",
+        "Price": "$120.00",
+        "Submit_ID": "94977",
+        "cTotalCoolRating": "2.0",
+        "hTotalHeatRating": "0.0",
+        "Product_Class": "Class 3",
+        "Width": "770.0",
+        "Type": "Cooling Only",
+        "Phase": "Single",
+        "eeRtestAvg": "4.973",
+        "coPtestAvg": "0.0",
+        "pnoc": "2.0",
+        "annualOutput": "4.8919851725699",
+        "Cool": "5.284",
+        "Heat": "0.0",
+        "appStandard": "GEMS(Air Conditioner & HEat Pumps)",
+        "mepsComp": "MEPS OCT2011",
+        "cDehumid_Rated": "0.1",
+        "Config_1": "Non Ducted",
+        "Config_2": "Single Split System"
+    }
+]
+
+
+

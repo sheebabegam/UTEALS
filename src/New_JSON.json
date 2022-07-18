@@ -1,0 +1,98 @@
+[
+    {
+        "id": "1",
+        "Usage": ""
+    },
+    {
+        "id": "2",
+        "Running Cost": ""
+    },
+    {
+        "id": "3",
+        "Model Number": ""
+    },
+    {
+        "id": "4",
+        "Size": ""
+    },
+    {
+        "id": "5",
+        "Star Rating": ""
+    },
+    {
+        "id": "6",
+        "Price": ""
+    },
+    {
+        "id": "7",
+        "Submit ID": ""
+    },
+    {
+        "id": "8",
+        "cTotalCoolRated": ""
+    },
+    {
+        "id": "9",
+        "hTotalHeatRated": ""
+    },
+    {
+        "id": "10",
+        "Product Class": ""
+    },
+    {
+        "id": "11",
+        "Width": ""
+    },
+    {
+        "id": "12",
+        "Type": ""
+    },
+    {
+        "id": "13",
+        "Phase": ""
+    },
+    {
+        "id": "14",
+        "eeRtestAvg": ""
+    },
+    {
+        "id": "15",
+        "coPtestAvg": ""
+    },
+    {
+        "id": "16",
+        "pnoc": ""
+    },
+    {
+        "id": "17",
+        "annualOutput": ""
+    },
+    {
+        "id": "18",
+        "2010Cool": ""
+    },
+    {
+        "id": "19",
+        "2010Heat": ""
+    },
+    {
+        "id": "20",
+        "appStandard": ""
+    },
+    {
+        "id": "21",
+        "mepsComp": ""
+    },
+    {
+        "id": "22",
+        "cDehumid Rated": ""
+    },
+    {
+        "id": "23",
+        "Config 1": ""
+    },
+    {
+        "id": "24",
+        "Config 2": ""
+    }
+]
